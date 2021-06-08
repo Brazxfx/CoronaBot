@@ -41,4 +41,4 @@ async def curados(ctx):
 async def mortes(ctx):
     await ctx.send(mortes1)
 
-client.run("ODUxMzMxMzg2MjM2NzMxMzky.YL2uIw.FjGZhna6JYmHD_g_dBUzWdg8NYY")
+client.run("TOKEN")
